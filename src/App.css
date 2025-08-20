@@ -1,0 +1,10 @@
+.contenedor{
+  background-color: rgb(129, 126, 123);
+  padding: 30px;
+  border-radius: 10px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  max-width: 500px;
+  margin: 50px auto;
+  text-align: center;
+  box-shadow: 10px 10px 12px black;
+}
